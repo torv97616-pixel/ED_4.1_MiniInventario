@@ -11,3 +11,5 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 - docs/plan.md
 - .gitignore
 - README.md
+## Prueba desde IntelliJ
+Cambio realizado usando interfaz gráfica
